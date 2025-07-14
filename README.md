@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/raghul-kannan-0a4968242" target="_blank">
+  <a href="www.linkedin.com/in/raghul-kannan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="raghulkannan005@gmail.com" target="_blank">
@@ -59,7 +59,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghulkannan005/raghulkannan005/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghulkannan005/raghulkannan005/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/raghulkannan005/raghulkannan005/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raghulkannan005/raghulkannan-s/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raghulkannan005/raghulkannan-s/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/raghulkannan005/raghulkannan-s/output/github-snake.svg" />
 </picture>
